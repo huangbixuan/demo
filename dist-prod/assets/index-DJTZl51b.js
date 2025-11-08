@@ -1,1 +1,0 @@
-import{aU as s}from"./index-QQaZ7rbf.js";const e=a=>s.put({url:"/mp/user/update",data:a}),r=a=>s.get({url:"/mp/user/get?id="+a}),u=a=>s.get({url:"/mp/user/page",params:a}),p=a=>s.post({url:"/mp/user/sync?accountId="+a}),t=a=>s.get({url:"/mp/user/addAdmin",params:a}),d=async a=>await s.delete({url:"/mp/user/delAdmin?id="+a});export{u as a,t as b,d,r as g,p as s,e as u};

@@ -1,1 +1,0 @@
-import{_ as o}from"./SocialUserDetail.vue_vue_type_script_setup_true_lang-CM1NwwJU.js";import"./Dialog.vue_vue_type_style_index_0_lang-BZRnyNPI.js";import"./index-QQaZ7rbf.js";import"./el-descriptions-item-BBtnvGnE.js";import"./el-image-DHi7RmhO.js";import"./DictTag.vue_vue_type_script_lang-DFL6gWod.js";import"./color-xEzN0Pg5.js";export{o as default};

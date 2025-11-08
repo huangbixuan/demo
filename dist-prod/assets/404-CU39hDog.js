@@ -1,1 +1,0 @@
-import{_ as n}from"./Error.vue_vue_type_script_setup_true_lang-F5u9TrsU.js";import{d as t,u as a,J as e,o as u,a as m}from"./index-QQaZ7rbf.js";const p=t({name:"Error404",__name:"404",setup(c){const{push:s}=a();return(f,r)=>{const o=n;return u(),e(o,{onErrorClick:r[0]||(r[0]=i=>m(s)("/"))})}}});export{p as default};
