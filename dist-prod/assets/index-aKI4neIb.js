@@ -1,0 +1,1 @@
+import{aU as e}from"./index-QQaZ7rbf.js";const r=async a=>await e.get({url:"/member/user/page",params:a}),t=async a=>await e.get({url:"/member/user/get?id="+a}),s=async a=>await e.post({url:"/member/user/create",data:a}),u=async a=>await e.put({url:"/member/user/update",data:a}),m=async a=>await e.put({url:"/member/user/updateMony",data:a});export{t as a,m as b,s as c,r as g,u};

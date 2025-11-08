@@ -1,0 +1,1 @@
+import{aU as e}from"./index-QQaZ7rbf.js";const s=t=>e.get({url:"/system/notice/page",params:t}),a=t=>e.get({url:"/system/notice/get?id="+t}),o=t=>e.post({url:"/system/notice/create",data:t}),r=t=>e.put({url:"/system/notice/update",data:t}),i=t=>e.delete({url:"/system/notice/delete?id="+t}),p=t=>e.post({url:"/system/notice/push?id="+t});export{a,o as c,i as d,s as g,p,r as u};

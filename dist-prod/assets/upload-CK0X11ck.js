@@ -1,0 +1,1 @@
+import{aj as r}from"./index-QQaZ7rbf.js";import{u as e,U as o}from"./useUpload-uA0mAQ_g.js";const t={Authorization:"Bearer "+r()},i="https://meeting.ai-centre.org/admin-api/mp/material/upload-permanent",m=a=>e(o.Image,2)(a),s=a=>e(o.Voice,2)(a),p=a=>e(o.Video,10)(a);export{t as H,i as U,s as a,m as b,p as c};

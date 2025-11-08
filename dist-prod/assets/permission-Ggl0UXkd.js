@@ -1,0 +1,1 @@
+import{aE as n,aF as o,e as c}from"./index-QQaZ7rbf.js";const{t:m}=c();function i(s){if(s&&s instanceof Array&&s.length>0){const{wsCache:e}=n(),r=s,a="*:*:*";return!!e.get(o.USER).permissions.some(t=>a===t||r.includes(t))}return!1}export{i as c};
